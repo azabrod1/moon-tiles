@@ -21,4 +21,6 @@ place after the app stops naming them, because a browser still running the
 older build keeps asking for them. Pruning is deliberate and by hand, and a
 pruned set 404s those clients (the app falls back to its whole-body map).
 
-`textures/tiles/sets.v1.json` is the table of what is here, copied from the cut.
+`textures/tiles/sets.v1.json` is the table of what is here: every <key>/<tier> a
+publish has named, at the latest cut of each, merged in from each root that was
+published (older cuts stay on disk under their own hashes).
