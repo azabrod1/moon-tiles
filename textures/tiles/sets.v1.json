@@ -250,5 +250,19 @@
     "baseWidth": 65024,
     "spanU": 1,
     "fileCount": 512
+  },
+  "mars-normal.v3/8k": {
+    "setHash8": "232997f4",
+    "grid": {
+      "cols": 8,
+      "rows": 4
+    },
+    "content": 1024,
+    "gutter": 8,
+    "tileWidth": 1040,
+    "tileHeight": 1040,
+    "baseWidth": 8192,
+    "spanU": 1,
+    "fileCount": 32
   }
 }
